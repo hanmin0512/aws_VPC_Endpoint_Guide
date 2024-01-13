@@ -7,7 +7,8 @@
 - 그 후 private 노드에서 앤드포인트로 S3와 private하게 연결하여 서비스를 이용한다.
 
 ## 네트워크 구성도
-> <img width="622" alt="1" src="https://github.com/hanmin0512/VPC_EndPoint/assets/37041208/45053dea-bd03-4ddb-a18e-97fc3c684f06">
+> <img width="609" alt="스크린샷 2024-01-14 오전 2 13 04" src="https://github.com/hanmin0512/aws_VPC_Endpoint_Guide/assets/37041208/502111b1-4d9e-4dd2-811d-03809d26d9f9">
+
 ## Create EC2
 - BastionServer(EC2 -Public VPC) 생성
 > ![스크린샷 2024-01-14 오전 12 55 28](https://github.com/hanmin0512/aws_VPC_Endpoint_Guide/assets/37041208/6d06e2ba-87b2-47e2-a5c6-68d45f0f11ea)
